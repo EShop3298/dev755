@@ -1,4 +1,4 @@
-package com.shashi.beans;
+package com.dev.beans;
 
 import java.io.Serializable;
 
